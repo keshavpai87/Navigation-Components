@@ -3224,6 +3224,7 @@ id action_bar_title
 id action_container
 id action_context_bar
 id action_divider
+id action_homeFragment_to_secondFragment
 id action_image
 id action_menu_divider
 id action_menu_presenter
@@ -3307,6 +3308,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dataBinding
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3370,6 +3372,7 @@ id floating
 id forever
 id fragmentContainerView
 id fragment_container_view_tag
+id frameLayout
 id frost
 id fullscreen_header
 id ghost_view
@@ -3504,6 +3507,8 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id onAttachStateChangeListener
+id onDateChanged
 id onInterceptTouchReturnSwipe
 id open_search_bar_text_view
 id open_search_view_background
@@ -3572,6 +3577,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id secondFragment
 id select_dialog_listview
 id selected
 id selection_type
@@ -3636,6 +3642,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textWatcher
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3823,6 +3831,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_home
+layout fragment_second
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout m3_alert_dialog
