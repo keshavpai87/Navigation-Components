@@ -103,3 +103,14 @@ For receiving the data in SecondFragment,
 
 ![image](https://github.com/user-attachments/assets/5c68e6fd-e9be-40b0-86c3-d92d02bc10e1)
 
+**Adding Animations for Actions**
+With reference to the below links, we shall pick slide-in-left, slide-in-right, slide-out-left, slide-out-right and add them.
+https://stackoverflow.com/questions/5151591/android-left-to-right-slide-animation
+https://stackoverflow.com/questions/18147840/slide-right-to-left-android-animations
+
+Go to **app** -> **Android Resource File** -> give a name to the file -> Select the **resource type** as **Animation** -> **OK**.
+Now the resource file will be created inside the anim folder under res directory.
+Add the details as mentioned below under Animations and run the app
+
+![image](https://github.com/user-attachments/assets/77df4634-e737-435e-af24-4f36f74565cb)
+
