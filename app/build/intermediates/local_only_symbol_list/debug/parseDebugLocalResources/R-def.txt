@@ -1,5 +1,9 @@
 R_DEF: Internal format may change without notice
 local
+anim slide_in_left
+anim slide_in_right
+anim slide_out_left
+anim slide_out_right
 color black
 color purple_200
 color purple_500
@@ -11,7 +15,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 id action_homeFragment_to_secondFragment
 id button
-id editTextText
+id editText
 id fragmentContainerView
 id frameLayout
 id homeFragment
