@@ -105,6 +105,7 @@ For receiving the data in SecondFragment,
 
 **Adding Animations for Actions**
 With reference to the below links, we shall pick slide-in-left, slide-in-right, slide-out-left, slide-out-right and add them.
+
 https://stackoverflow.com/questions/5151591/android-left-to-right-slide-animation
 https://stackoverflow.com/questions/18147840/slide-right-to-left-android-animations
 
